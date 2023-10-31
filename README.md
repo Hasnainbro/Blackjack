@@ -17,7 +17,7 @@ This is a simple command-line-based implementation of the classic card game Blac
 
 6. Ties: If your score and the computer's score are the same, it's a draw.
 
-# Code Explanation
+## Code Explanation
 
 * The code uses the random module to simulate card drawing and the os module to clear the terminal screen.
 * It defines functions for drawing cards, calculating scores, and comparing scores to determine the winner.
@@ -40,11 +40,11 @@ cd blackjack-game
 
 python Blackjack.py
 
-# Author
+## Author
 
 Hasnain kherani
 
-# Acknowledgments
+## Acknowledgments
 
 Special thanks to the Python community for providing useful libraries and resources for game development.
 Feel free to reach out with any questions or feedback!
