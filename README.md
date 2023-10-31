@@ -30,15 +30,15 @@ To play the game:
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/Hasnainbro/blackjack.git
+   git clone https://github.com/Hasnainbro/blackjack.git
 
 2. Navigate to the project directory:
 
-cd blackjack-game
+   cd blackjack-game
 
 3. Run the game:
 
-python Blackjack.py
+   python Blackjack.py
 
 ## Author
 
