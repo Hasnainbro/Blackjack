@@ -47,5 +47,6 @@ Hasnain kherani
 ## Acknowledgments
 
 Special thanks to the Python community for providing useful libraries and resources for game development.
+
 Feel free to reach out with any questions or feedback!
 
