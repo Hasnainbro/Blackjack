@@ -75,3 +75,4 @@ def play_game():
 while input("Do You want to Play the game of Black Jack (type y for yes): ") == "y":
     os.system('cls')
     play_game()
+    
